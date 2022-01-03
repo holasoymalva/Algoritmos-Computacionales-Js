@@ -11,7 +11,7 @@
 
 ### Fibonacci
 
-** Alternativa usando recursividad : **
+**Alternativa usando recursividad :**
 
 ```Javascript
 
@@ -24,7 +24,7 @@ fibonacci(test_value);
 
 ```
 
-** Alternativa usando ciclos : **
+**Alternativa usando ciclos :**
 
 ```Javascript
 
