@@ -33,3 +33,49 @@ En el análisis de algoritmos, los patrones de resolución de problemas son un c
 * Greedy Algorithm: Este patrón se enfoca en tomar decisiones a corto plazo en busca de una solución óptima.
 
 Estos son solo algunos de los patrones de resolución de problemas más comunes en el análisis de algoritmos. Con el tiempo, los programadores y los investigadores en la materia continúan desarrollando y mejorando estos patrones para hacer frente a problemas más complejos.
+
+## Tipos de algoritmos
+
+Existen varios tipos de algoritmos computacionales, algunos de los cuales son los siguientes:
+
+* Algoritmos de ordenamiento: como se mencionó anteriormente, estos algoritmos organizan una lista de elementos en un orden determinado.
+
+* Algoritmos de búsqueda: estos algoritmos encuentran un elemento específico en una lista o conjunto de datos.
+
+* Algoritmos de grafos: estos algoritmos se utilizan para resolver problemas relacionados con estructuras de grafos, como encontrar rutas óptimas, detectar ciclos y encontrar caminos más cortos.
+
+* Algoritmos de árboles: estos algoritmos se utilizan para resolver problemas relacionados con estructuras de árboles, como encontrar el ancestro común más cercano y realizar búsquedas en profundidad o amplitud.
+
+* Algoritmos de recursión: estos algoritmos resuelven un problema al dividirlo en subproblemas más pequeños y resolviéndolos recursivamente.
+
+* Algoritmos de backtracking: estos algoritmos prueban todas las soluciones posibles para un problema hasta encontrar la solución correcta.
+
+* Algoritmos de hashing: estos algoritmos se utilizan para buscar datos en una tabla hash, que es una estructura de datos que permite un acceso rápido a los elementos.
+  
+* Algoritmos de cifrado: estos algoritmos se utilizan para proteger la privacidad y la seguridad de los datos, como en la criptografía y la seguridad informática.
+
+Estos son solo algunos ejemplos de los tipos de algoritmos que existen. Cada tipo de algoritmo se adapta a diferentes necesidades y problemas específicos.
+
+## Algoritmos de Ordenamiento
+
+Los algoritmos de ordenamiento son procedimientos computacionales que permiten organizar un conjunto de datos en un orden determinado. El objetivo principal de los algoritmos de ordenamiento es tomar una lista de elementos y reorganizarlos de forma ascendente o descendente en función de un criterio específico, como el valor numérico, alfabético o cronológico.
+
+Existen muchos algoritmos de ordenamiento, cada uno con sus propias ventajas y desventajas en términos de eficiencia y complejidad. Algunos ejemplos de algoritmos de ordenamiento comunes incluyen la ordenación de burbuja, la ordenación por inserción, la ordenación por selección, la ordenación rápida y la ordenación por mezcla.
+
+Los algoritmos de ordenamiento son una parte importante de la programación y se utilizan en muchos campos, como la ciencia de datos, la investigación de operaciones, la informática empresarial, la informática de alto rendimiento y la ingeniería de software.
+
+## Algoritmos de Busqueda
+
+Los algoritmos de búsqueda son procedimientos utilizados para encontrar elementos específicos dentro de una colección de datos, como una lista, un árbol, un grafo, una matriz o cualquier otra estructura de datos. Los algoritmos de búsqueda se utilizan ampliamente en la programación y se aplican en muchos campos, como la informática, la electrónica, la matemática, la física, la biología y la ingeniería.
+
+El objetivo principal de los algoritmos de búsqueda es encontrar uno o varios elementos dentro de una estructura de datos en función de un criterio de búsqueda específico. Algunos de los algoritmos de búsqueda más comunes incluyen la búsqueda lineal (o secuencial) y la búsqueda binaria.
+
+Existen muchos algoritmos de búsqueda que se utilizan en diferentes situaciones y problemas específicos, cada uno con sus propias ventajas y desventajas en términos de eficiencia, complejidad y facilidad de implementación. Los algoritmos de búsqueda son una parte fundamental de la programación y son utilizados en una amplia variedad de aplicaciones, desde la búsqueda de archivos en un sistema de archivos hasta la búsqueda de soluciones óptimas en problemas de inteligencia artificial y aprendizaje automático.
+
+## Estructuras de Datos
+
+Las estructuras de datos son formas organizadas y eficientes de almacenar y manipular datos en un programa. Son un concepto fundamental en la programación y se utilizan para representar información en una variedad de formas, como listas, árboles, grafos, colas, pilas, entre otras.
+
+Las estructuras de datos son importantes porque permiten a los programas manejar grandes cantidades de información de manera eficiente, lo que puede mejorar el rendimiento y la velocidad de un programa. Además, las estructuras de datos pueden ser utilizadas para resolver una variedad de problemas y tareas en la programación, como búsquedas, clasificaciones, inserciones, eliminaciones, entre otras.
+
+Es importante que los programadores conozcan las diferentes estructuras de datos y cómo se utilizan para diseñar programas efectivos y eficientes. Con una comprensión sólida de las estructuras de datos, los programadores pueden seleccionar la estructura adecuada para un problema y escribir programas más eficientes y elegantes.
