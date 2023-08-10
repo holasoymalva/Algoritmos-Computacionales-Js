@@ -97,9 +97,27 @@ function merge(left, right) {
 Tiempo cuadrático: El tiempo de ejecución del algoritmo es proporcional al cuadrado del tamaño de la entrada. Suelen ser algoritmos con bucles anidados.
 
 ```javascript
-function accessFirstElement(arr) {
-  return arr[0]; // Acceso al primer elemento del arreglo
+function swap(arr, posicion1, posicion2){
+    let temp = arr[posicion1];
+    arr[posicion1] = arr[posicion2];
+    arr[posicion2] = temp;
 }
+
+function burbuja(arr){
+    let i, j;
+    for( i = 0; i < arr.length; i++){
+        console.log('---------------------------');
+        for (j = 0; j < arr.length - i -1; j++) {
+            console.log(arr);
+            if(arr[j] > arr[j+1]){
+                swap(arr,j,j+1)
+            }
+        }
+    }
+    return arr;
+}
+let array = [8,4,6,2,1];
+console.log(burbuja(array));
 ```
 
 Es importante recordar que estos ejemplos ilustran la complejidad temporal de los algoritmos para propósitos educativos y de demostración. En la práctica, la elección del algoritmo adecuado dependerá del contexto específico y las características del problema que se esté resolviendo. Al utilizar el Big O Notation, los desarrolladores pueden tomar decisiones informadas para asegurarse de que sus algoritmos sean eficientes y escalables.
